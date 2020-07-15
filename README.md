@@ -4,7 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="Home page.bmp" width="800" height="400">
 # Video demonstration
 
- <iframe  src="https://www.youtube.com/embed/U8r3oTVMtQ0?autoplay=1" height="400px" width="600px"> </iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/o2E_ILE8qyE)
+ 
 Video demonstration of our Project:
 https://youtu.be/o2E_ILE8qyE
 
