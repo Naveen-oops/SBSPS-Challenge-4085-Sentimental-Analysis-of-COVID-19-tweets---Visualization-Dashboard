@@ -13,7 +13,7 @@ Our approach to this problem comprises of three modules namely <br>
 
 
 # 1.Live Sentimental analysis
-First the live tweets page is the place where the tweets that are posted online currently regarding covid 19 will be  dispalayed . In addition the corresponding score is also displayed. There are other two tabs in which one potrays the image vise analysis of the tweet which when clicked on it takes us to original location of the tweet that's the twitter. In the other tab the overall setimental score will be displayed through the analysis. 
+First the live tweets page is the place where the tweets that are posted online currently regarding covid 19 will be  displayed . In addition the corresponding score is also displayed. There are other two tabs in which one potrays the image vise analysis of the tweet which when clicked on it takes us to original location of the tweet that's the twitter. In the other tab the overall setimental score will be displayed through the analysis. 
 <br>
 
 # 2.Past tweet analysis
