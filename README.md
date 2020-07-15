@@ -4,7 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="Home page.bmp" width="800" height="400">
 # Video demonstration
 
-[![Watch the video](https://img.youtube.com/vi/o2E_ILE8qyE/0.jpg)](https://youtu.be/o2E_ILE8qyE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[![Watch the video](https://img.youtube.com/vi/o2E_ILE8qyE/0.jpg)](https://youtu.be/o2E_ILE8qyE)
  
 Video demonstration of our Project:
 https://youtu.be/o2E_ILE8qyE
