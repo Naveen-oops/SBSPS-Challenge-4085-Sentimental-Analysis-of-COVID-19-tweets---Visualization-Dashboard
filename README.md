@@ -1,6 +1,6 @@
 # SBSPS-Challenge-4085-Sentimental-Analysis-of-COVID-19-tweets---Visualization-Dashboard
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Home page.bmp" width="800" height="400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Home page.bmp" width="800" height="400">
 # Video demonstration
 Video demonstration of our Project:
 https://youtu.be/o2E_ILE8qyE
