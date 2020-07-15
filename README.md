@@ -27,12 +27,12 @@ The third module is the chatbot. The main purpose of the chat bot is to create a
 In additon we created a awareness page inorder to spread awareness to the people using it.
 Future scope of this project would be processing of the more datasets of past tweets and add the analysis of the tweets in each day. To increase the accuracy of the chatbot in terms of counts. And also create a predictive model in which the sentiments of the people would be predicted if any other lockdown impostions are made in future
 
-""" 
+
 # Contributors:
 
 1)K.Naveen kumar
 2)R.Ragul
 3)N.J.Nishok
 4)M.Sowmithra
-<br>
-"""
+
+
