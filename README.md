@@ -5,7 +5,7 @@ Video demonstration of our Project:
 https://youtu.be/o2E_ILE8qyE
 
 # Main problem Statement
-The main problem statement of our project is the creation of visualisation dashboard to do the sentimental analysis of covid tweets in India. 
+The main problem statement of our project is to do the sentimental analysis of covid 19 tweets in India.We then build a visualization dashboard which is helpful in understanding the results visually.  
 Our approach to this problem comprises of three modules namely <br>
 --->live sentimental analysis,<br> 
 --->past tweet analysis and<br>
