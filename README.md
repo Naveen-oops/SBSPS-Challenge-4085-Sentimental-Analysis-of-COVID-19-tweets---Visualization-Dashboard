@@ -20,10 +20,13 @@ Our approach to this problem comprises of three modules namely <br>
 
 # 1.Live Sentimental analysis
 First the live tweets page is the place where the tweets that are posted online currently regarding covid 19 will be  displayed . In addition the corresponding score is also displayed. There are other two tabs in which one potrays the image vise analysis of the tweet which when clicked on it takes us to original location of the tweet that's the twitter. In the other tab the overall setimental score will be displayed through the analysis. 
+<i>"Analyse live tweets from the twitter with hashtags "#IndiaFightsCorona", "#covid19Karnataka" , "#ICMRFIGHTSCOVID19", "#CoronaWarriors","#TogetherAgainstCovid19" and drawing meaningful graph,Locating tweets source on Indian map, Perform image analysis on Images tagged for tweets using power of Watson visual recognition."</i>
+
 <br>
 
 # 2.Past tweet analysis
 The second module is the past data analysis where the data sets are analysed and their corresponding word frequency count, the sentimental graph will be displayed. 
+<i>"Analyse the past tweets from India right from the beginning of lockdown till june end and performing sentimental analysis and plotting beautiful bar graphs , word clouds etc.,. (Lock down 1.0,Lockdown 2.0 …….. ) Now, here for our current scope we only analysed tweets on April 16."</i>
 <br>
 
 # 3.Chatbot
