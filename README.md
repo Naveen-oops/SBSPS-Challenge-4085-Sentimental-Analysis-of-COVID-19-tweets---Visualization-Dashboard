@@ -27,7 +27,7 @@ The third module is the chatbot. The main purpose of the chat bot is to create a
 # Additional features
 
 --->In additon we created a <b> awareness page</b> inorder to spread awareness to the people using it.Basic awareness such as <b> wash hands and wear masks </b>are shown.And a demo video of the same is attached at the end.<br>
---->We also Provide an external link to <h1>Location wise tweet analysis of India </h1> by IIT Tirupathi , which is a value added feature. We have also mentioned about the same in our idea, which we found after a long search from internet.It has all the features we expected to include. It shows the <b>Overall tweets count and Five basic emotions of people
+--->We also Provide an external link to <b>Location wise tweet analysis of India </b> by IIT Tirupathi , which is a value added feature. We have also mentioned about the same in our idea, which we found after a long search from internet.It has all the features we expected to include. It shows the <b>Overall tweets count and Five basic emotions of people
 (Happy,Sad,Surprise,Anger,Disgust) along with Neutral emotion </b> for the given range of days. Right from <b>march and upto june </b> the analysis is present. What we have done is <b>we provide a platform </b> where you can totally understand about the sentiments of people in India through our website.
 
 # Future Scope
